@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "green-alchemy-327206",
+  "private_key_id": "2bc0e76f613066beb6ca81365de9f4b461e82945",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjsOtXhu3akhEc\nIBlIiQ/q8jm7+7eWIwRIKTdcX0XJKiLsTvyR2vJH5HJhte0zT2Cn7UQthnoM6wrz\nBPbq0xzCjRGf4Hg/ownHZ/AS+/ugILfkVi5nwGrB5+lmDv7eZpOTFDvHA3TdiTM1\nFvacLwns37siKi9ozNdk3S03rcFoH792laCqGXsxkA0Km6jjFmxpRJWJfc9XoYxL\nI6+7D8HHbd2An1F6usJOqPE43uXv7FSdtpcxljSBlFa3pA+qKy+/MhmP8RYTjMRj\nfYFYmv7XnYYUA4rrBIEGq2EvFREW7pMjKYT2Xk/bpgiKw9S7LG/0EP88MZdcGYAH\neTk1/zFPAgMBAAECggEASJAbkHtp1hxy43m/VQSJVCD6EVS5P1nNhYnNIN0kCmYp\nVxIdIAac7Bh783PdMlr7vMi6z59pyjAl/yj34AKDyeTXVxJcgDtfZHNVaVdw66lB\nsb1dcKc73qwgD+x7gTlDkr4CBvytA+Uzspms4j2DdkAfDVZQYZ/WjUiHnpT7bEkH\nypWCQ9hM6I3OmtsCzuJGbf86R4FeDPeFJDf9RZBZfmyxC4OGkAxAn7CVxqR7+XnU\nEqBSJzXyHqN1EbExBR1Ixm0nOmLITcaGkmaeoVXjj2EMnBpLXU/JJGRQkfRqqJHa\n+BMEmBsGULScvyOhZDl1D7rLhoy//+Zu+mPJfoG7sQKBgQD+sZW8X8bF0robMV1j\nrtsKf/+XX1kAYASq8k/7kKBSJg8Cx4ptHl69atyT+S1v+LahJEfX/3C5yHo1YSEa\nE7UewoLm/r+wvuWe7RZH48SJZc5lQaVFYLLgkQab1ATOpUXJA4DtgixkTeQdFEm0\n6oD4P1KPBUytSyQX7bXkrcfaRQKBgQDk2+E23IrWHFhLzpWX6mgtkgc9FUljiuxB\nXyNCDvWvuZzVFQ0ewif9+kNJ0ZKwKZao2qzIRZW2eykJ0JzcpzmducMO4WDSb48k\nkZMdzhyIjMqkbGdAFBkdzC9P+q/QV/Zbiq/dNQCkS3XPeIgXPKsPQwAlItBXHwY8\nrRuCMriAgwKBgC89yURTj48J8zMwCN6AhGiCLWpqaRvEs5jxsRw8S0Bxhr9BO8/Z\nnkEMHTXlNiRawaVKEXljDAmpweE8zuMDXMkD0zv9bJjgD79Wwpc7DC1gENR/RKSF\ntygoPk2RGgMqbLNITxW+23UPbYxnQvSnupxRQoL8vKg4E83Mbbyo7zTxAoGBALRk\nhO9Dg8Qlb4vBeLTYNenFsyL4xnJKLNOSdC47sHkk63QiNcdK708Il0V2hhOJlJHg\nXFU4VDwUdFKiNyLORWIH7LKsAC+fc8s1XCsgLemMYKaeM/yUWv/b1GdMiIzG6Q9b\nEChjAPB/8orozQzT61oKS/D5shMaB0aIhKhp5niVAoGAZ8/Qav3rO7h/H8jGUo8R\nfB8M9vSg4n//VQ6tOSys41awOU6Zi8t3HPs62DPTdiGa+3eJW8XhnDwBLLTL8Hkn\nOyGXF9eZuY1tvbtfbN4+PE/pMntRNVPfOkQrZljE4Gav1DoRh1DDENkfEPmspNS9\nKukF+R84EDOOx833zg7qR38=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-vwg67cecj50-2w7mqbfyhzjzem@green-alchemy-327206.iam.gserviceaccount.com",
+  "client_id": "100413619362651440608",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-vwg67cecj50-2w7mqbfyhzjzem%40green-alchemy-327206.iam.gserviceaccount.com"
+}
